@@ -1,0 +1,11 @@
+@import 'constant/color.scss';
+
+.header {
+  padding: 12px;
+  border-bottom: 1px solid $BORDER_BOTTOM_COLOR;
+  font-size: 18px;
+  text-align: center;
+  font-weight: 400;
+  display: flex;
+  background-color: #fff;
+}
